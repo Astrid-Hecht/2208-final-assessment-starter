@@ -5,9 +5,22 @@
         "lines": [
           1,
           1,
+          8,
+          8,
+          null,
+          8,
+          5,
+          null,
           5,
           5,
-          5,
+          null,
+          0,
+          null,
+          null,
+          1,
+          null,
+          1,
+          0,
           null,
           null
         ]
@@ -16,10 +29,12 @@
         "lines": [
           1,
           1,
-          2,
-          2,
-          2,
-          40,
+          1,
+          1,
+          1,
+          null,
+          0,
+          0,
           null,
           null,
           null
@@ -31,11 +46,23 @@
           1,
           null,
           1,
-          6,
-          6,
-          6,
-          6,
-          6,
+          2,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/astrid/z_turing/3m/assesments/2208-final-assessment-starter/app/poro/error.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          0,
+          0,
           null,
           null
         ]
@@ -46,9 +73,9 @@
           1,
           null,
           1,
-          41,
-          41,
-          41,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -57,12 +84,12 @@
         "lines": [
           1,
           1,
-          6,
-          6,
+          9,
+          9,
           null,
           null,
           1,
-          6,
+          9,
           null,
           null
         ]
@@ -88,32 +115,32 @@
           1,
           1,
           1,
-          36,
+          42,
           null,
           null,
           1,
           1,
-          30,
+          10,
           null,
           null,
           null,
           null,
           1,
           1,
-          3,
-          3,
-          3,
-          3,
-          3,
-          3,
-          null,
-          null,
-          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null,
           1,
-          3,
-          3,
+          null,
+          null,
+          1,
+          1,
+          1,
           null,
           null,
           null
@@ -123,9 +150,10 @@
         "lines": [
           1,
           1,
-          1,
-          1,
-          1,
+          2,
+          2,
+          0,
+          0,
           null,
           null
         ]
@@ -136,39 +164,66 @@
           null
         ]
       },
-      "/Users/astrid/z_turing/3m/assesments/2208-final-assessment-starter/app/serializers/capital_serializer.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          2,
-          1,
-          null
-        ]
-      },
       "/Users/astrid/z_turing/3m/assesments/2208-final-assessment-starter/app/controllers/api/v1/places_controller.rb": {
         "lines": [
           1,
           1,
+          2,
+          2,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
           1,
+          null,
           1,
-          1,
-          1,
+          0,
           null,
           null
         ]
       },
+      "/Users/astrid/z_turing/3m/assesments/2208-final-assessment-starter/app/serializers/error_serializer.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/astrid/z_turing/3m/assesments/2208-final-assessment-starter/app/serializers/tourist_sight_serializer.rb": {
         "lines": [
-          1,
-          1,
+          0,
+          0,
           null,
-          21,
-          1,
-          null
-        ]
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/astrid/z_turing/3m/assesments/2208-final-assessment-starter/app/serializers/capital_serializer.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1673634554
+    "timestamp": 1673637105
   }
 }
